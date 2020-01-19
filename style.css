@@ -1,0 +1,31 @@
+.broadway{
+	text-align: center;
+	color: white;
+
+}
+.image {
+	background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+
+	text-align: center;
+
+}
+h2 {
+	text-align: center;
+}
+.identify{
+	text-align: center;
+}
+p {
+	font-weight:normal;
+}
+.understand {
+	text-align:center;
+}
+.execute{
+	text-align: center;
+}
+.design {
+	text-align: center;
+	color:white;
+	
+}
